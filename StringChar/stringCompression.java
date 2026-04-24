@@ -1,6 +1,5 @@
 package StringChar;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class stringCompression {
