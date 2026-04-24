@@ -15,7 +15,6 @@ public class binaryToHex {
         String hexValues = "0123456789ABCDEF";
         StringBuilder hex = new StringBuilder();
         int sum = 0;
-        boolean reached = false;
         int multiplier = 1;
         while (binary > 0) {
             int lastNum = binary % 10;
