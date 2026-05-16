@@ -1,0 +1,4 @@
+P101,Wireless Mouse,45,15,25.50
+P102,Mechanical Keyboard,12,10,75.00
+P103,USB-C Hub,8,12,19.99
+P104,27-inch Monitor,5,5,249.99
