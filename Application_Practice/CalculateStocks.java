@@ -3,7 +3,6 @@ package Application_Practice;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class CalculateStocks {
     public static void main(String[] args) {
@@ -24,7 +23,7 @@ public class CalculateStocks {
             unitPrice.add(productData[4]);
         }
 
-        int stocksLeft = 0;
+        int stocksLeft;
         for (String[] salesData: fileReader(sales)) {
             for (String data : productID) {
                 if (data.equals(salesData[0])) {
@@ -36,6 +35,7 @@ public class CalculateStocks {
 
         System.out.println(currentStock);
     }
+
     public static ArrayList<String[]> fileReader (String files) {
         ArrayList<String[]> dataList = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(files))){
@@ -49,14 +49,5 @@ public class CalculateStocks {
             throw new RuntimeException(e);
         }
         return dataList;
-    }
-
-    public int searchID () {
-        return 0;
-    }
-
-    public int calculateStock (int latestStock, int saleNumber) {
-
-        return 0;
     }
 }

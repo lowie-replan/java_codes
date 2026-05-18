@@ -1,0 +1,8 @@
+======= WAREHOUSE RESTOCK REPORT =======
+ID NAME STOCK VALUE
+----------------------------------------------------
+P102 Mechanical Keyboard 12 $1074.0
+P103 4K Monitor 8 $2399.92
+P105 Gaming Headset 0 $0.0
+----------------------------------------------------
+Total Global Inventory Value: $6960.97

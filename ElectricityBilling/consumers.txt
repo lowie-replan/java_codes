@@ -1,0 +1,5 @@
+CN-1001,Lowie John Replan,Residential,4120,4350,false
+CN-1002,Maria Clara,Commercial,8500,9250,true
+CN-1003,Juan Dela Cruz,Residential,2150,2150,false
+CN-1004,Alan Turing,Commercial,5000,5120,false
+CN-1005,Grace Hopper,Residential,3100,3450,true

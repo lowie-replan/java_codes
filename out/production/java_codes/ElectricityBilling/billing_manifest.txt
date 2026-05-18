@@ -1,0 +1,6 @@
+AccountID | ConsumerName | kWhConsumed | PenaltyApplied | FinalBillAmount
+CN-1001 | Lowie John Replan | 230 | 0.00 | 2260.00
+CN-1002 | Maria Clara | 750 | 1050.00 | 11550.00
+CN-1003 | Juan Dela Cruz | 0 | 0.00 | 0.00
+CN-1004 | Alan Turing | 120 | 0.00 | 1680.00
+CN-1005 | Grace Hopper | 350 | 370.00 | 4070.00

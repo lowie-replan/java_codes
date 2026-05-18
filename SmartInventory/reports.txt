@@ -1,0 +1,5 @@
+P101,Wireless Mouse,45,24.99
+P102,Mechanical Keyboard,12,89.50
+P103,4K Monitor,8,299.99
+P104,USB-C Hub,150,15.75
+P105,Gaming Headset,0,59.99
