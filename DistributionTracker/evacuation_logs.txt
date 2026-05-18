@@ -1,0 +1,6 @@
+EVAC-201,Ramon Locsin,Barangay Central,4,true,false
+EVAC-202,Josefa Alunan,Barangay Maao,7,false,true
+EVAC-203,Juan Dela Cruz,Barangay Sampinit,0,false,false
+EVAC-204,Maria Silava,Barangay Central,2,true,true
+EVAC-205,Antonio Luna,Barangay Busay,-3,false,false
+EVAC-206,Elena Velez,Barangay Maao,5,true,false

@@ -1,0 +1,2 @@
+EvacueeID|Barangay|BasePacks|AddOnPacks|TotalPacks
+EVAC-201|Barangay Central|2|1|3EVAC-202|Barangay Maao|3|1|4EVAC-204|Barangay Central|1|2|3EVAC-206|Barangay Maao|2|1|3
